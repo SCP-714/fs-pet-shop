@@ -1,0 +1,17 @@
+###
+GET http://127.0.0.1:2016/
+
+### get all pets
+GET http://127.0.0.1:2016/pets
+
+### get a single pet
+GET http://127.0.0.1:2016/pets/4
+
+### get the kind of all pets
+GET http://127.0.0.1:2016/pets/kind
+
+### post 
+POST http://127.0.0.1:2016/pets
+Content-type: application/json
+
+{  "age": 3, "kind": "parakeet","name": "Cornflake", }
