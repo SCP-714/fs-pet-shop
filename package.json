@@ -23,6 +23,13 @@
   },
   "homepage": "https://github.com/gSchool/fs-pet-shop#readme",
   "dependencies": {
-    "nodemon": "^1.9.1"
+    "body": "^5.1.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^1.9.1",
+    "parser": "^0.1.4",
+    "pg": "^8.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.26.0"
   }
 }

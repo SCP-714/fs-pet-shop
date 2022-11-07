@@ -1,0 +1,16 @@
+INSERT INTO pets (age, kind, name) VALUES (7, 'rainbow', 'fido');
+INSERT INTO pets (age, kind, name) VALUES (5, 'snake', 'Buttons');
+INSERT INTO pets (age, kind, name) VALUES (6, 'bird', 'alarm');
+INSERT INTO pets (age, kind, name) VALUES (6, 'dog', 'pupper');
+INSERT INTO pets (age, kind, name) VALUES (4, 'dog', 'doggo');
+INSERT INTO pets (age, kind, name) VALUES (1, 'cat', 'momo');
+INSERT INTO pets (age, kind, name) VALUES (2, 'dog', 'bailey');
+INSERT INTO pets (age, kind, name) VALUES (3, 'guinea pig', 'peanut');
+INSERT INTO pets (age, kind, name) VALUES (3, 'guinea pig', 'tilly');
+INSERT INTO pets (age, kind, name) VALUES (2, 'dog', 'butters');
+INSERT INTO pets (age, kind, name) VALUES (5, 'fox', 'mochi');
+INSERT INTO pets (age, kind, name) VALUES (6, 'ferret', 'poke');
+INSERT INTO pets (age, kind, name) VALUES (6, 'dog', 'pupper');
+INSERT INTO pets (age, kind, name) VALUES (4, 'dog', 'waffles');
+INSERT INTO pets (age, kind, name) VALUES (1, 'cat', 'mittens');
+INSERT INTO pets (age, kind, name) VALUES (12, 'dog', 'sasha');
